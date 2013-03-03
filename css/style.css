@@ -219,7 +219,7 @@ td { vertical-align: top; }
 
 
 /* ==|== primary styles =====================================================
-   Author:
+   Author: Matt Coulter
    ========================================================================== */
 h1, h2, h3, h4, h5{
     color:  #5A5A5A;
@@ -307,21 +307,19 @@ footer{
 
 .primary-background, .secondary-background, .tertiary-background{
     text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+    color: #fff;
 }
 
 .primary-background{
     background:  #33bcef;
-    color: #fff;
 }
 
 .secondary-background{
     background:  #f89406;
-    color:  #fff;
 }
 
 .tertiary-background{
    background:  #5bb75b;
-   color: #fff;
 }
 
 ul.page-list{
