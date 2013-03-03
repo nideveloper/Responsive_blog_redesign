@@ -358,6 +358,22 @@ ul.page-list li:last-child{
     .main-header img{
         margin-left:  10px;
     }
+
+    .search form{
+        float:  none;
+    }
+    
+    .search .input-append{
+        width:  98%;
+    }
+
+    .search .input-append input{
+        width:  75%;
+    }
+
+    .search .input-append button{
+        width:  25%;
+    }
 }
 
 
